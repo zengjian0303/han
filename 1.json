@@ -350,7 +350,7 @@
       "key": "mtv_xp_优酷视频",
       "name": "官方┃优酷视频",
       "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+      "api": "http://m.ycccyk.cn/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -407,7 +407,6 @@
         "武侠片"
       ]
     },
-	{"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
     {
       "key": "mtv_pc_Excel教程",
       "name": "哔哩┃Excel教程",
@@ -418,7 +417,6 @@
       "filterable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/Excel教程.json"
     },
-	{"key":"哔哩","name":"哔哩套餐","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"85b2986381a134ba3ebbaf25ae8138e7#https://notabug.org/aruisi888/Ar/raw/master/bilibili.json"},
     {
       "key": "Bili_UP主",
       "name": "哔哩┃UP主",
@@ -460,16 +458,6 @@
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/bili.json"
     },
     {
-      "key": "mtv_xp_初中课堂",
-      "name": "哔哩┃初中课堂",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/初中课堂.json"
-    },
-    {
       "key": "mtv_xp_哔哩",
       "name": "哔哩┃哔哩",
       "type": 3,
@@ -478,46 +466,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/哔哩.json"
-    },
-    {
-      "key": "mtv_xp_学堂",
-      "name": "哔哩┃学堂",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/学堂.json"
-    },
-	{
-      "key": "mtv_pc_小学课堂",
-      "name": "哔哩┃小学课堂",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/小学课堂.json"
-    },
-    {
-      "key": "mtv_pc_少儿教育",
-      "name": "哔哩┃少儿教育",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/少儿教育.json"
-    },
-    {
-      "key": "mtv_xp_幼儿乐园",
-      "name": "哔哩┃幼儿乐园",
-      "type": 3,
-      "api": "csp_Dora",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/幼儿乐园.json"
     },
     {
       "key": "mtv_xp_棋牌",
@@ -578,6 +526,54 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/菜单.json"
+    },    {
+      "key": "mtv_xp_学堂",
+      "name": "哔哩┃学堂",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/学堂.json"
+    },
+	 {
+      "key": "mtv_xp_幼儿乐园",
+      "name": "哔哩┃幼儿乐园",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/幼儿乐园.json"
+    },    {
+      "key": "mtv_pc_少儿教育",
+      "name": "哔哩┃少儿教育",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/少儿教育.json"
+    },
+	{
+      "key": "mtv_pc_小学课堂",
+      "name": "哔哩┃小学课堂",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/小学课堂.json"
+    },
+    {
+      "key": "mtv_xp_初中课堂",
+      "name": "哔哩┃初中课堂",
+      "type": 3,
+      "api": "csp_Dora",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/初中课堂.json"
     },
     {
       "key": "mtv_xp_高中课堂",
