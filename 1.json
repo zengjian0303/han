@@ -325,7 +325,7 @@
       "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
-	  "jar": "https://agit.ai/zengjian/han/raw/branch/0/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6",
+	  "jar": "https://agit.ai/zengjian/han/raw/master/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6",
       "filterable": 1
     },
 	 {
@@ -336,7 +336,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://agit.ai/zengjian/han/raw/branch/0/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"},
+            "jar": "https://agit.ai/zengjian/han/raw/master/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"},
         {
             "key": "csp_IQIYI",
             "name": "官方┃奇艺视频",
@@ -345,7 +345,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://agit.ai/zengjian/han/raw/branch/0/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://agit.ai/zengjian/han/raw/master/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
     {
       "key": "mtv_xp_优酷视频",
@@ -428,7 +428,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-	  "jar": "https://agit.ai/zengjian/han/raw/branch/0/jar/bili.jar;md5;b965ffdf88f07652189d6416ba83164c",
+	  "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili.jar;md5;b965ffdf88f07652189d6416ba83164c",
       "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/UP主.json"
     },
     {
