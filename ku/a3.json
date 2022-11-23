@@ -1,0 +1,85 @@
+
+{
+  "storeHouse": [
+  {
+    "sourceName": "派大星1号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/1.m3u"
+  },
+  {
+    "sourceName": "派大星2号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/2.m3u"
+  },
+  {
+    "sourceName": "派大星3号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/3.m3u"
+  },
+  {
+    "sourceName": "派大星4号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/4.m3u"
+  },
+  {
+    "sourceName": "派大星5号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/5.m3u"
+  },
+  {
+    "sourceName": "派大星6号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/6.m3u"
+  },
+  {
+    "sourceName": "派大星7号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/7.m3u"
+  },
+  {
+    "sourceName": "派大星8号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/8.m3u"
+  },{
+    "sourceName": "派大星9号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/9.m3u"
+  },
+  {
+    "sourceName": "派大星10号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/10.m3u"
+  },
+  {
+    "sourceName": "派大星11号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/11.m3u"
+  },
+  {
+    "sourceName": "派大星12号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/12.m3u"
+  },
+  {
+    "sourceName": "派大星13号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/13.m3u"
+  },
+  {
+    "sourceName": "派大星14号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/14.m3u"
+  },
+  {
+    "sourceName": "派大星15号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/15.m3u"
+  },
+  {
+    "sourceName": "派大星16号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/16.m3u"
+  },
+  {
+    "sourceName": "派大星17号仓库",
+    "sourceUrl": "http://tv.nxog.top/dc/dc/17.m3u"
+  },
+  {
+    "sourceName": "派大星18号仓库",
+     "sourceUrl": "http://tv.nxog.top/dc/dc/18.m3u"
+  },
+  {
+    "sourceName": "派大星19号仓库",
+       "sourceUrl": "http://tv.nxog.top/dc/dc/19.m3u"
+  }
+  ,
+  {
+    "sourceName": "派大星20号仓库",
+       "sourceUrl": "http://tv.nxog.top/dc/dc/20.m3u"
+  }
+  ]
+}

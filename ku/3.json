@@ -1,85 +1,58 @@
-
 {
-  "storeHouse": [
-  {
-    "sourceName": "派大星1号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/1.m3u"
-  },
-  {
-    "sourceName": "派大星2号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/2.m3u"
-  },
-  {
-    "sourceName": "派大星3号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/3.m3u"
-  },
-  {
-    "sourceName": "派大星4号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/4.m3u"
-  },
-  {
-    "sourceName": "派大星5号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/5.m3u"
-  },
-  {
-    "sourceName": "派大星6号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/6.m3u"
-  },
-  {
-    "sourceName": "派大星7号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/7.m3u"
-  },
-  {
-    "sourceName": "派大星8号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/8.m3u"
-  },{
-    "sourceName": "派大星9号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/9.m3u"
-  },
-  {
-    "sourceName": "派大星10号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/10.m3u"
-  },
-  {
-    "sourceName": "派大星11号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/11.m3u"
-  },
-  {
-    "sourceName": "派大星12号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/12.m3u"
-  },
-  {
-    "sourceName": "派大星13号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/13.m3u"
-  },
-  {
-    "sourceName": "派大星14号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/14.m3u"
-  },
-  {
-    "sourceName": "派大星15号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/15.m3u"
-  },
-  {
-    "sourceName": "派大星16号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/16.m3u"
-  },
-  {
-    "sourceName": "派大星17号仓库",
-    "sourceUrl": "http://tv.nxog.top/dc/dc/17.m3u"
-  },
-  {
-    "sourceName": "派大星18号仓库",
-     "sourceUrl": "http://tv.nxog.top/dc/dc/18.m3u"
-  },
-  {
-    "sourceName": "派大星19号仓库",
-       "sourceUrl": "http://tv.nxog.top/dc/dc/19.m3u"
-  }
-  ,
-  {
-    "sourceName": "派大星20号仓库",
-       "sourceUrl": "http://tv.nxog.top/dc/dc/20.m3u"
-  }
-  ]
+    "urls": [
+           {
+            "url": "https://raw.fastgit.org/leevi0709/duo/main/v.json",
+            "name": " 🔔请点击选择下方线路"
+        },
+        {
+            "url": "https://raw.fastgit.org/leevi0709/duo/main/v.json",
+            "name": "🏡应用多多家庭版"
+         },
+        {
+            "url": "http://43.139.29.179:5705/config/2",
+            "name": "💎道长T4线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "💎小苹果TV线路"
+        },
+         {
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+            "name": "💎佰欣园线路"
+        },
+        {
+            "url": "https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0",
+            "name": "💎星河线路"
+        },
+        {
+           "url":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+           "name":"💎PinkBird线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+            "name": "💎二哈线路"
+        },
+         {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "💎zzz1线路"
+        },
+         {
+            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "name": "💎小马线路"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "💎乱世线路"
+        },             
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "name": "💎兽爪线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
+            "name": "💎chengxueli线路"
+        }
+ 
+      ]
+   
 }
