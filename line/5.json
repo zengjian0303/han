@@ -1,0 +1,33 @@
+{
+    "urls": [
+
+        {
+            "url": "https://gitlab.com/sxjzlb/zfsn/-/raw/main/zsb.json",
+            "name": "🏡Gitlab仓库正式版"
+        },
+        {
+            "url": "https://gitlab.com/sxjzlb/zfsn/-/raw/main/csb.json",
+            "name": "🏡Gitlab仓库测试版"
+        },
+        {
+            "url": "https://gitlab.com/sxjzlb/zfsn/-/raw/main/jyb.json",
+            "name": "🏡Gitlab仓库教育版"
+        },
+        {
+            "url": "https://agit.ai/sxjzlb/live/raw/branch/master/zsb.json",
+            "name": "🚀Agit仓库正式版"
+        },
+        {
+            "url": "https://agit.ai/sxjzlb/live/raw/branch/master/csb.json",
+            "name": "🚀Agit仓库测试版"
+        },
+        {
+            "url": "https://agit.ai/sxjzlb/live/raw/branch/master/jyb.json",
+            "name": "🚀Agit仓库教育版"
+        }, 
+        {
+            "url": "https://agit.ai/sxjzlb/live/raw/branch/master/cszy.json",
+            "name": "🚀测试专用"
+        } 
+    ]
+}

@@ -1,6 +1,6 @@
 {
-  "spider": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/ts.jar;md5;e0924826e82aa56b850549b520bfd67f",
-  "wallpaper": "https://gitee.com/zengjian0303/hanapp/raw/master/img/01.jpg",
+  "spider": "https://agit.ai/zengjian/han/raw/master/jar/ts.jar;md5;e0924826e82aa56b850549b520bfd67f",
+  "wallpaper": "https://agit.ai/zengjian/han/raw/master/img/01.jpg",
   "lives": [
     {
       "group": "redirect",
@@ -181,7 +181,7 @@
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/alist.json"
     },
     {
@@ -321,7 +321,7 @@
       "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
-	  "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+	  "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "filterable": 1
     },
     {
@@ -331,7 +331,7 @@
       "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-	  "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+	  "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "filterable": 1
     },
     
@@ -433,7 +433,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/Excel教程.json"
     },
 	{"key":"哔哩","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/zengjian/han/src/branch/0/jar/bili.jar;md5;b965ffdf88f07652189d6416ba83164c","ext":"https://notabug.org/aruisi888/Ar/raw/master/bilibili.json"},
@@ -456,7 +456,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/MTV.json"
     },
     {
@@ -467,7 +467,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/戏曲.json"
     },
     {
@@ -478,7 +478,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/bili.json"
     },
     {
@@ -489,7 +489,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/初中课堂.json"
     },
     {
@@ -500,7 +500,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/哔哩.json"
     },
     {
@@ -511,7 +511,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/学堂.json"
     },
 	{
@@ -522,7 +522,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/小学课堂.json"
     },
     {
@@ -533,7 +533,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/少儿教育.json"
     },
     {
@@ -544,7 +544,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/幼儿乐园.json"
     },
     {
@@ -555,7 +555,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/棋牌.json"
     },
     {
@@ -566,7 +566,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/演唱会.json"
     },
     {
@@ -577,7 +577,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/球星.json"
     },
     {
@@ -588,7 +588,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/球球.json"
     },
     {
@@ -599,7 +599,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/美食.json"
     },
     {
@@ -610,7 +610,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/菜单.json"
     },
     {
@@ -621,7 +621,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://gitee.com/zengjian0303/hanapp/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
+      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
       "ext": "https://agit.ai/zengjian/han/raw/branch/0/json/高中课堂.json"
     }
   ],
