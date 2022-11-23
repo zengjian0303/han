@@ -165,25 +165,8 @@
       "filterable": "1",
       "ext": "d16d1517e9eaad9909cb35c55ba0b784"
     },
-    {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": "3",
-      "api": "csp_Bili",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "http://home.jundie.top:81/ray/json/bili.json"
-    },
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/alist.json"
-    },
+{"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
+{"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
     {
       "key": "Cokemv",
       "name": "可乐",
@@ -434,7 +417,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/Excel教程.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/Excel教程.json"
     },
 	{"key":"哔哩","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/zengjian/han/src/branch/0/jar/bili.jar;md5;b965ffdf88f07652189d6416ba83164c","ext":"https://notabug.org/aruisi888/Ar/raw/master/bilibili.json"},
     {
@@ -446,7 +429,7 @@
       "quickSearch": "1",
       "filterable": "1",
 	  "jar": "https://agit.ai/zengjian/han/raw/branch/0/jar/bili.jar;md5;b965ffdf88f07652189d6416ba83164c",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/UP主.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/UP主.json"
     },
     {
       "key": "mtv_xp_音乐演唱",
@@ -457,7 +440,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/MTV.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/MTV.json"
     },
     {
       "key": "mtv_xp_戏曲杂苑",
@@ -468,7 +451,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/戏曲.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/戏曲.json"
     },
     {
       "key": "mtv_pc_bili",
@@ -479,7 +462,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/bili.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/bili.json"
     },
     {
       "key": "mtv_xp_初中课堂",
@@ -490,7 +473,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/初中课堂.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/初中课堂.json"
     },
     {
       "key": "mtv_xp_哔哩",
@@ -501,7 +484,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/哔哩.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/哔哩.json"
     },
     {
       "key": "mtv_xp_学堂",
@@ -512,7 +495,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/学堂.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/学堂.json"
     },
 	{
       "key": "mtv_pc_小学课堂",
@@ -523,7 +506,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/小学课堂.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/小学课堂.json"
     },
     {
       "key": "mtv_pc_少儿教育",
@@ -534,7 +517,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/少儿教育.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/少儿教育.json"
     },
     {
       "key": "mtv_xp_幼儿乐园",
@@ -545,7 +528,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/幼儿乐园.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/幼儿乐园.json"
     },
     {
       "key": "mtv_xp_棋牌",
@@ -556,7 +539,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/棋牌.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/棋牌.json"
     },
     {
       "key": "mtv_pc_演唱会",
@@ -567,7 +550,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/演唱会.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/演唱会.json"
     },
     {
       "key": "mtv_xp_球星",
@@ -578,7 +561,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/球星.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/球星.json"
     },
     {
       "key": "mtv_xp_球球",
@@ -589,7 +572,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/球球.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/球球.json"
     },
     {
       "key": "mtv_xp_美食",
@@ -600,7 +583,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/美食.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/美食.json"
     },
     {
       "key": "mtv_xp_菜单",
@@ -611,7 +594,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/菜单.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/菜单.json"
     },
     {
       "key": "mtv_xp_高中课堂",
@@ -622,7 +605,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili1104.jar;md5;cfd37febf4e6ae415de48355a9431550",
-      "ext": "https://agit.ai/zengjian/han/raw/master/json/高中课堂.json"
+      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/高中课堂.json"
     }
   ],
   "parses": [
