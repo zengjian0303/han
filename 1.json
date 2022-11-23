@@ -428,8 +428,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-	  "jar": "https://agit.ai/zengjian/han/raw/master/jar/bili.jar;md5;b965ffdf88f07652189d6416ba83164c",
-      "ext": "https://agit.ai/zengjian/han/raw/master/Bilibili/UP主.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/zengjian/han/raw/master/Bilibili/UP主.json"
     },
     {
       "key": "mtv_xp_音乐演唱",
