@@ -451,7 +451,7 @@
     },
     {
       "key": "mtv_pc_bili",
-      "name": "哔哩┃bili",
+      "name": "哔哩┃bili大全",
       "type": 3,
       "api": "csp_Dora",
       "searchable": 0,
