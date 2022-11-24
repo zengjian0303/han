@@ -1,5 +1,9 @@
 {
   "storeHouse": [
+   {
+    "sourceName": "🌹主仓库🌹",
+    "sourceUrl": "https://agit.ai/zengjian/han/raw/branch/master/ku/1.json"
+  },
   {
     "sourceName": "🌹欧歌主仓库🌹",
     "sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"
