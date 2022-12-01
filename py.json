@@ -8,7 +8,7 @@
  
   
   "lives":[{"group":"redirect","channels":[{"name":"live",
-  "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3plbmdqaWFuL2hhbi9yYXcvYnJhbmNoL21hc3Rlci90di9teXR2LnR4dA=="]}]}],
+  "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vemVuZ2ppYW4wMzAzL2hhbi9tYXN0ZXIvdHYvbXl0di50eHQ="]}]}],
 
   "sites":[
     {"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},

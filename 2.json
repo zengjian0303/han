@@ -1,5 +1,5 @@
 {
-  "spider": "https://agit.ai/zengjian/han/raw/master/jar/云星日记1116.jar;md5;ab44104cfabc8c6da7b54124a0c36a5a",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/云星日记1116.jar;md5;ab44104cfabc8c6da7b54124a0c36a5a",
   "wallpaper": "https://yydsys.top/api.php",
   "lives": [
     {
@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3plbmdqaWFuL2hhbi9yYXcvYnJhbmNoL21hc3Rlci90di9teXR2LnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vemVuZ2ppYW4wMzAzL2hhbi9tYXN0ZXIvdHYvbXl0di50eHQ="
           ]
         }
       ]
@@ -52,7 +52,7 @@
       "api": "csp_XBiubiu",
       "filterable": 1,
       "quickSearch": 1,
-      "ext": "https://agit.ai/zengjian/han/raw/branch/master/biubiu/大米星球",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master//biubiu/大米星球",
       "searchable": 0
     },
     {
@@ -62,7 +62,7 @@
       "api": "csp_XBiubiu",
       "filterable": 1,
       "quickSearch": 1,
-      "ext": "https://agit.ai/zengjian/han/raw/branch/master/biubiu/爱看影视.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master//biubiu/爱看影视.json",
       "searchable": 0
     },
     {
@@ -72,7 +72,7 @@
       "api": "csp_XBiubiu",
       "filterable": 1,
       "quickSearch": 1,
-      "ext": "https://agit.ai/zengjian/han/raw/branch/master/biubiu/TVB云播.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master//biubiu/TVB云播.json",
       "searchable": 0
     },
     {
@@ -82,7 +82,7 @@
       "api": "csp_XBiubiu",
       "filterable": 1,
       "quickSearch": 1,
-      "ext": "https://agit.ai/zengjian/han/raw/branch/master/biubiu/影视工厂.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master//biubiu/影视工厂.json",
       "searchable": 0
     },
     {
@@ -92,7 +92,7 @@
       "api": "csp_XBiubiu",
       "filterable": 1,
       "quickSearch": 1,
-      "ext": "https://agit.ai/zengjian/han/raw/branch/master/biubiu/COKEMV.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master//biubiu/COKEMV.json",
       "searchable": 0
     },
     {
@@ -567,7 +567,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://agit.ai/zengjian/han/raw/branch/master/biubiu/alist.json"
+        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master//biubiu/alist.json"
       },
     {
       "key": "csp_bendi",
