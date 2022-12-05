@@ -15,25 +15,6 @@
     }
   ],
   "sites": [
-   {
-      "key":"js豆瓣",
-      "name":"豆瓣",
-      "type":3,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/douban.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-      },
-	   {
-      "key": "csp_XYQ_lu1",
-      "name": "电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json"
-    },
       {
       "key": "Kunyu77",
       "name": "七七",
@@ -389,8 +370,8 @@
       "name": "哔哩┃UP主",
       "type": "3",
       "api": "csp_Dora",
-      "searchable": "0",
-      "quickSearch": "0",
+      "searchable": "1",
+      "quickSearch": "1",
       "filterable": "1",
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/Bilibili/UP主.json"
     },
