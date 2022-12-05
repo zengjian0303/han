@@ -17,9 +17,9 @@
   "sites": [
    {
       "key":"js豆瓣",
-      "name":"dly",
+      "name":"豆瓣",
       "type":3,
-      "api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/yingmo.js",
+      //"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/yingmo.js",
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -33,7 +33,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json",
+	  "jar": "https://agit.ai/gk0747/zx/raw/branch/master/duov.jar;md5;17714BE99529F76223038C9410608E1B"
     },
       {
       "key": "Kunyu77",
