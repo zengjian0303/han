@@ -32,8 +32,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json",
-	  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/duov.jar;md5;17714BE99529F76223038C9410608E1B"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/duov.jar;md5;17714BE99529F76223038C9410608E1B#https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json",
+	
     },
       {
       "key": "Kunyu77",
