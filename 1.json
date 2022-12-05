@@ -19,7 +19,6 @@
       "key":"js豆瓣",
       "name":"豆瓣",
       "type":3,
-      //"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/yingmo.js",
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
