@@ -1,15 +1,15 @@
 {
     "urls": [
       {
-           "url":"clan://localhost/tvbox/1.json",
-           "name":"🏡本地线路"
+           "url":"http://w.g9.pub:66/381203888/panda.jpg ",
+           "name":"🏡肥猫线路 "
         },
         {
-           "url":"clan://localhost/tvbox/js.json",
-           "name":"🏡本地js线路"
+           "url":"https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
+           "name":"🏡电视合集"
         },
         {
-           "url": "https://agit.ai/gk0746/2/raw/branch/master/dd.bmp",
+           "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
            "name":"🏡多多线路"
         },
         {
@@ -33,7 +33,7 @@
           "name":"🚀道长js线路"
         },
         {
-          "url":"https://pandora2277.github.io/tang.bmp",
+          "url":"https://hutool.ml/tang",
           "name":"🚀唐三线路"
         },
          {
@@ -57,12 +57,12 @@
             "name": "xbpq"
         },
         {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧记线路"
+            "url": "http://101.34.67.237/config/3",
+            "name": "🚀小雅JS线路"
         },
         {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🚀巧记agit线路"
+            "url": "http://catvod.fun:8001/tv/m.json",
+            "name": "🚀馒头线路"
         },
        {
             "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
