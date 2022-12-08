@@ -21,6 +21,7 @@
       "type":3,
       "api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/yingmo.js",
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/douban.js",
+	  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/duov.jar;md5;17714BE99529F76223038C9410608E1B",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
