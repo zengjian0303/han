@@ -23,8 +23,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json",
-	  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/duov.jar;md5;17714BE99529F76223038C9410608E1B"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json"
+    },
+	{
+      "key": "mtv_pc_乐猪影视",
+      "name": "乐猪影视",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
     },
       {
       "key": "Kunyu77",
@@ -345,8 +353,8 @@
             "api": "csp_MGTV",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"},
+            "filterable": 1"
+			},
         {
             "key": "csp_IQIYI",
             "name": "官方┃奇艺视频",
@@ -354,17 +362,7 @@
             "api": "csp_IQIYI",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
-        },{
-            "key": "csp_IYOUKU",
-            "name": "官方┃优酷视频",
-            "type": 3,
-            "api": "csp_YOUKU",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "filterable": 1"
         },
     {
       "key": "mtv_pc_Excel教程",
