@@ -689,13 +689,14 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"JSON1","type":1,"url":"https://douban.armytea.com/json.php?url="},
-{"name":"JSON2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"豆瓣","type":1,"url":"https://douban.armytea.com/json.php?url="},
+{"name":"每日新","type":1,"url":"http://47.108.39.237:55/api/?key=wltOJckrTYf5rhr5k3&url="},
+{"name":"快看","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"JSON3","type":1,"url":"https://jx.300ys.xyz/json/jianghu.php/?url="},
 {"name":"JSON4","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=58291&key=ciortuwCGHKNOUWZ47&url="},
-
 {"name":"JSON5","type":1,"url":"https://jx.58g8.com/1/?url="},
 {"name":"JSON6","type":1,"url":"https://www.idianying.com.cn/lvdou_api.php/Json/Index?list=0&from=miaoparty2&url="},
+
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"GGTV1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV2","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
