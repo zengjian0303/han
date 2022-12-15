@@ -15,43 +15,20 @@
     }
   ],
   "sites": [
-   {
-      "key": "mtv_pc_360影视",
-      "name": "官方┃360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "csp_QQ",
-      "name": "官方┃腾讯视频",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	 {
-            "key": "csp_MGTV",
-            "name": "官方┃芒果视频",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1"
-			},
-        {
-            "key": "csp_IQIYI",
-            "name": "官方┃奇艺视频",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1"
-        },
+  {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/drpy.js"},
+{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/音乐演唱.json"},
+{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alistjar.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/alist.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alist.json"},
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
+{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
+{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/菜狗.js"},
+{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/乐猪TV.js"},
     {
       "key": "csp_XYQ_lu1",
       "name": "电视直播",
@@ -61,15 +38,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/json/ningmeng.json"
-    },
-	{
-      "key": "mtv_pc_乐猪影视",
-      "name": "乐猪影视",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
     },
       {
       "key": "Kunyu77",
@@ -540,20 +508,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/Bilibili/高中课堂.json"
-    },{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/drpy.js"},
-{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/音乐演唱.json"},
-{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alistjar.json"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/alist.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alist.json"},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
-{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
-{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/百忙无果.js"},
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/菜狗.js"},
-{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/乐猪TV.js"},
+    },
 {"key":"drpy_js_TV云播","name":"影视 | TV云播[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/TV云播.js"},
 {"key":"drpy_js_fositv","name":"影视 | fositv[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/fositv.js"},
 {"key":"drpy_js_影渣渣","name":"影视 | 影渣渣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/影渣渣.js"},
