@@ -642,7 +642,7 @@
   ],
   
   "alist":[
-{"name":"我的网盘","initPath":"","username":"","password":"","url":"https://wangpan.zengjian0303.repl.co"},
+{"name":"我的网盘","url":"https://wangpan.zengjian0303.repl.co"},
 {"name":"解析聚合","initPath":"","initPath":"","initPath":"","url":"Demo"}
 ],
  "webdav":[
