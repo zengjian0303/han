@@ -641,8 +641,12 @@
 {"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"}
   ],
   
-  "drive":[
-{"name":"解析聚合","type":3,"url":"Demo"}
+  "alist":[
+{"name":"我的网盘","initPath":"","username":"","password":"","url":"https://wangpan.zengjian0303.repl.co"},
+{"name":"解析聚合","initPath":"","initPath":"","initPath":"","url":"Demo"}
+],
+ "webdav":[
+{"name":"解析聚合","initPath":"","username":"","password":"","url":"Demo"}
 ],
  "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
