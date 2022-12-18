@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/jar/ts.jar;md5;178bd490131df13997c6d67bbffe9924",
+  "spider": "http://127.0.0.1:9978/ts.jar;md5;178bd490131df13997c6d67bbffe9924",
   "wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/img/01.jpg",
   "lives": [
     {
