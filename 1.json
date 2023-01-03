@@ -19,9 +19,9 @@
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/音乐演唱.json"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alistjar.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/alist.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alist.json"},
-{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
-{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
-{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"},
+{"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "http://ali.饭太硬.ml/tok"},
+{"key": "盘搜","name": "阿里 | 盘搜","type": 3,"api": "csp_PanSou","ext": "http://ali.饭太硬.ml/tok"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/优酷.js"},
@@ -228,7 +228,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Lib",
@@ -278,7 +278,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "YiSo",
@@ -288,7 +288,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "AliPS",
@@ -298,7 +298,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "http://home.jundie.top:666/token.txt"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Zxzj",
@@ -668,7 +668,7 @@
 {"key":"drpy_js_追剧达人","name":"影视 | 追剧达人[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视 | 追剧啦儿[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/子子影视.js"},
-{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/token.txt"}
+{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "http://ali.饭太硬.ml/tok"}
   ],
   
   "alist":[
