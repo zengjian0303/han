@@ -320,6 +320,26 @@
       "filterable": "1",
       "ext": "http://home.jundie.top:666/token.txt"
     },
+	 {
+            "key": "py_cctv_test",
+            "name": "测试┃央视节目(py)",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/py/py_cctv.py"
+        },
+        {
+            "key": "py_cctv_full",
+            "name": "测试┃央视大全(py)",
+            "type": 3,
+            "api": "py_cctv_full",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.looo.top/app/py/py_cctv_full.py"
+        },
     {
       "key": "mtv_pc_直播合集",
       "name": "直播┃直播合集",
@@ -652,6 +672,11 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{
+            "name": "龙门",
+            "type": 1,
+            "url": "https://k.json.icu/home/api?type=ys&uid=6399107&key=bdlmrswBDHIKZ01238&url="
+        },
 {"name":"豆瓣","type":1,"url":"https://douban.armytea.com/json.php?url="},
 {"name":"每日新","type":1,"url":"http://47.108.39.237:55/api/?key=wltOJckrTYf5rhr5k3&url="},
 {"name":"快看","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
