@@ -338,7 +338,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://www.looo.top/app/py/py_cctv_full.py"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/py/py_cctv_full.py"
+        },
+		{
+            "key": "cps_xp_酷奇视频",
+            "name": "切片┃酷奇视频",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://www.looo.top/app/json/酷奇视频.json"
         },
     {
       "key": "mtv_pc_直播合集",
