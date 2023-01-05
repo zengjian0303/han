@@ -41,9 +41,9 @@
     },
 	 {
       "key": "zhibo3",
-      "name": "🎤万首MV歌曲",
+      "name": "万首MV歌曲",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/o5",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/tv/mtv.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
