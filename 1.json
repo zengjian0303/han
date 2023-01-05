@@ -16,7 +16,7 @@
   ],
   "sites": [
   {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/drpy.js"},
-{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/音乐演唱.json"},
+{"key":"bili","name":"B站 |音乐演唱","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/音乐演唱.json"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alistjar.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/lib/alist.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/alist.json"},
 {"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
