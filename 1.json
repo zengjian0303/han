@@ -94,7 +94,7 @@
       "key": "bili",
       "name": "B站 |音乐演唱",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Dora",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/js/音乐演唱.json"
     },
     {
