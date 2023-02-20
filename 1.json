@@ -1596,7 +1596,7 @@
     {
       "name": "龙门",
       "type": 1,
-      "url": "https://k.json.icu/home/api?type=ys&uid=6399107&key=bdlmrswBDHIKZ01238&url="
+      "url": "http://qiqi.520say.cn/json/dd.php?url="
     },
     {
       "name": "豆瓣",
@@ -1606,7 +1606,7 @@
     {
       "name": "每日新",
       "type": 1,
-      "url": "https://295jx.295yun.vip:295/api/?key=o3rrTwJNzgYKBCGItY&url="
+      "url": "http://180.102.25.145:66/api/?key=yDKbSRd8ZCHe1B1R1Q&url="
     },
     {
       "name": "快看",
@@ -1614,19 +1614,19 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "JSON3",
+      "name": "左岸",
       "type": 1,
-      "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMl1xZ&url="
+      "url": "https://za.kuanjv.com/?url="
     },
     {
       "name": "JSON4",
       "type": 1,
-      "url": "https://k.json.icu/home/api?type=ys&uid=58291&key=ciortuwCGHKNOUWZ47&url="
+      "url": "https://rx.bt5v.com/json/jsonindex.php/?url="
     },
     {
       "name": "Q1解析",
       "type": 1,
-      "url": "http://150.158.175.250:88/parse/sign/f9eec288fdae85420df3ce01e62891e2?url=",
+      "url": "https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=",
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
